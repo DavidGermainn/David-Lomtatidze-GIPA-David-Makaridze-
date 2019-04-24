@@ -1,0 +1,51 @@
+a {
+    text-emphasis: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+.main {
+    margin-top: 10px;
+    margin-left: 24%;
+    width: 40%;
+}
+.main img {
+    display: inline-flex;
+}
+.main a {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    float: left;
+    margin-top: 65px;
+}
+.row1_container img{
+    margin-left: 100px;
+}
+.row2_container img{
+    margin-left: 29px;
+}
+.row3_container img{
+    margin-left: 54px;
+}
+.social_sticky{
+    margin-top: 4.45%;
+    position: fixed;
+}
+.footer {
+    margin-top: 10px;
+}
+.divider {
+    margin:0 auto;
+    height: 2px;
+    width: 80%;
+    background-color: grey;
+}
+.footer_info{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.sound_icon_container{
+    float: right;
+}

@@ -1,0 +1,82 @@
+a {
+    text-emphasis: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+.main {
+    margin-top: 10px;
+    margin-left: 24%;
+    width: 57%;
+    text-align: center;
+}
+.page_title{
+    margin:0 auto;
+    text-align: center;
+    text-decoration: underline;
+}
+.row1 {
+    display: inline-block;
+}
+.row2 {
+    margin-top: 20px;
+}
+.item {
+    width: 100px;
+    height: 120px;
+    display: inline-block;
+}
+.row1 .item2 {
+    margin-left: 100px;
+}
+.row1 .item3 {
+    margin-left: 100px;
+}
+.row2 .item2 {
+    margin-left: 100px;
+}
+.row2 .item3 {
+    margin-left: 100px;
+}
+.row2 .item4 {
+    margin-left: 100px;
+}
+.item_picture {
+    text-align: center;
+}
+.item_text {
+    text-align: center;
+}
+.main img {
+    width: 100px;
+    height: 100px;
+}
+.row {
+    margin: 0 auto;
+    margin-left: -100px;
+}
+.social_sticky{
+    position: fixed;
+}
+.tickets{
+    position: fixed;
+    margin-left: 94%;
+    margin-top: 120px;
+}
+.footer {
+    margin-top: 10px;
+}
+.divider {
+    margin:0 auto;
+    height: 2px;
+    width: 80%;
+    background-color: grey;
+}
+.footer_info{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.sound_icon_container{
+    float: right;
+}

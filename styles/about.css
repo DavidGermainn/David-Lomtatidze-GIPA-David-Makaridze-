@@ -1,0 +1,52 @@
+a {
+    text-emphasis: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
+.main {
+    margin-top: 10px;
+    margin-left: 24%;
+    width: 57%;
+    text-align: center;
+}
+.page_title{
+    margin:0 auto;
+    text-align: center;
+    text-decoration: underline;
+}
+.main img {
+    width: 100px;
+    height: 100px;
+}
+.about_picture{
+    margin: 0 auto;
+    margin-top: 4%;
+    margin-right: 10%;
+}
+.social_sticky{
+    margin-top: 4.45%;
+    position: fixed;
+}
+.tickets{
+    position: fixed;
+    margin-left: 94%;
+    margin-top: 120px;
+}
+.footer {
+    margin-top: 10px;
+}
+.divider {
+    margin:0 auto;
+    height: 2px;
+    width: 80%;
+    background-color: grey;
+}
+.footer_info{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.sound_icon_container{
+    float: right;
+}
